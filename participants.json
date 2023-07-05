@@ -472,5 +472,41 @@
     },
     "Trial": {
         "Description": "Trial counterbalancing condition governing event order in trial lists during fMRI experiments"
+    },
+    "PAn/aS_Negative": {
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:Assessment",
+                "Label": ""
+            },
+            "IsPartOf": {
+                "TermURL": "cogatlas:tsk_4a57abb949d09",
+                "Label": ""
+            }
+        },
+        "Description": "There should have been a description here, but there wasn't. :("
+    },
+    "PAn/aS_Positive": {
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:Assessment",
+                "Label": ""
+            },
+            "IsPartOf": {
+                "TermURL": "cogatlas:tsk_4a57abb949d09",
+                "Label": ""
+            }
+        },
+        "Description": "There should have been a description here, but there wasn't. :("
+    },
+    "participant_id": {
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:ParticipantID",
+                "Label": ""
+            },
+            "Identifies": "participant"
+        },
+        "Description": "There should have been a description here, but there wasn't. :("
     }
 }
