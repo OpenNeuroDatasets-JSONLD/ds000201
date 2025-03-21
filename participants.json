@@ -130,69 +130,19 @@
         "Description": "State-Trait Anxiety Inventory, Trait subscale"
     },
     "BFI_Extraversion": {
-        "Description": "Big Five Inventory, Extraversion subscale",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_523f5c17d7edb",
-                "Label": ""
-            }
-        }
+        "Description": "Big Five Inventory, Extraversion subscale"
     },
     "BFI_Agreeableness": {
-        "Description": "Big Five Inventory, Agreeableness subscale",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_523f5c17d7edb",
-                "Label": ""
-            }
-        }
+        "Description": "Big Five Inventory, Agreeableness subscale"
     },
     "BFI_Conscientiousness": {
-        "Description": "Big Five Inventory, Conscientiousness subscale",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_523f5c17d7edb",
-                "Label": ""
-            }
-        }
+        "Description": "Big Five Inventory, Conscientiousness subscale"
     },
     "BFI_Neuroticism": {
-        "Description": "Big Five Inventory, Neuroticism subscale",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_523f5c17d7edb",
-                "Label": ""
-            }
-        }
+        "Description": "Big Five Inventory, Neuroticism subscale"
     },
     "BFI_Openness": {
-        "Description": "Big Five Inventory, Openness subscale",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_523f5c17d7edb",
-                "Label": ""
-            }
-        }
+        "Description": "Big Five Inventory, Openness subscale"
     },
     "PANAS_Positive": {
         "Description": "Positive and Negative Affect Scale, Positive"
@@ -219,56 +169,16 @@
         "Description": "Emotional Contagion Scale"
     },
     "BIS11_Total": {
-        "Description": "Barratt Impulsiveness Scale-11, total score",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_55a6a8e81b7f4",
-                "Label": ""
-            }
-        }
+        "Description": "Barratt Impulsiveness Scale-11, total score"
     },
     "BIS11_Attentional": {
-        "Description": "Barratt Impulsiveness Scale-11, Attentional factor",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_55a6a8e81b7f4",
-                "Label": ""
-            }
-        }
+        "Description": "Barratt Impulsiveness Scale-11, Attentional factor"
     },
     "BIS11_Motor": {
-        "Description": "Barratt Impulsiveness Scale-11, Motor factor",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_55a6a8e81b7f4",
-                "Label": ""
-            }
-        }
+        "Description": "Barratt Impulsiveness Scale-11, Motor factor"
     },
     "BIS11_Nonplanning": {
-        "Description": "Barratt Impulsiveness Scale-11, Nonplanning factor",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_55a6a8e81b7f4",
-                "Label": ""
-            }
-        }
+        "Description": "Barratt Impulsiveness Scale-11, Nonplanning factor"
     },
     "MenstrualPhaseSession1": {
         "Description": "determined by participants' self-reported dates for last menstruation if applicable"
@@ -293,7 +203,7 @@
                 "Label": ""
             },
             "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb949bb1",
+                "TermURL": "snomed:414750000",
                 "Label": ""
             }
         }
@@ -323,56 +233,16 @@
         "Description": "Participants' self-reported general impression of the experiment session 2, reported in Swedish and coded in English by the experimenter"
     },
     "PVTEffort1": {
-        "Description": "Rated effort during Psychomotor Vigilance Test session 1, 1-5",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_50b55d8a6da00",
-                "Label": ""
-            }
-        }
+        "Description": "Rated effort during Psychomotor Vigilance Test session 1, 1-5"
     },
     "PVTEffort2": {
-        "Description": "Rated effort during Psychomotor Vigilance Test session 2, 1-5",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_50b55d8a6da00",
-                "Label": ""
-            }
-        }
+        "Description": "Rated effort during Psychomotor Vigilance Test session 2, 1-5"
     },
     "PVTMotivation1": {
-        "Description": "Rated motivation during Psychomotor Vigilance Test session 2, 1-5",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_50b55d8a6da00",
-                "Label": ""
-            }
-        }
+        "Description": "Rated motivation during Psychomotor Vigilance Test session 2, 1-5"
     },
     "PVTMotivation1.1": {
-        "Description": "Rated motivation during Psychomotor Vigilance Test session 2, 1-5",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_50b55d8a6da00",
-                "Label": ""
-            }
-        }
+        "Description": "Rated motivation during Psychomotor Vigilance Test session 2, 1-5"
     },
     "FellAsleepSession1": {
         "Description": "Self-report of whether participants fell asleep during scanning, session 1"
@@ -480,7 +350,7 @@
                 "Label": ""
             },
             "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb949d09",
+                "TermURL": "snomed:304755000",
                 "Label": ""
             }
         },
@@ -493,7 +363,7 @@
                 "Label": ""
             },
             "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb949d09",
+                "TermURL": "snomed:304755000",
                 "Label": ""
             }
         },
